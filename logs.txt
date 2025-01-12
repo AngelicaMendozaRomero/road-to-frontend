@@ -1,0 +1,23 @@
+commit 2b90a047cb1dc4e003e9259ff17691b05f8f78be
+Author: AngelicaMendozaRomero <amr.angelica16@gmail.com>
+Date:   Fri Jan 3 19:17:48 2025 -0600
+
+    Dia 1
+
+commit 145a2b37fd3d4b77dc5e2a52b60801eff73a4d0c
+Author: AngelicaMendozaRomero <amr.angelica16@gmail.com>
+Date:   Wed Jan 1 23:46:29 2025 -0600
+
+    Edite el readme
+
+commit c333741cb77d02d074f3b448517bb9733c6a1f12
+Author: Angelica Mendoza <angelicamendoza@Mac-mini-de-Angelica.local>
+Date:   Wed Jan 1 23:41:28 2025 -0600
+
+    Dia 0
+
+commit bc89a89ec7f1811ee9a08bbe18fc9cc8dcceb2a3
+Author: Angelica Mendoza <angelicamendoza@Mac-mini-de-Angelica.local>
+Date:   Wed Jan 1 23:35:10 2025 -0600
+
+    Mi primer ejercicio
