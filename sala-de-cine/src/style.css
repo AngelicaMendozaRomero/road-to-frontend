@@ -1,0 +1,10 @@
+.titulo {
+  color: aqua;
+  font-size: 2rem;
+}
+#descripcion {
+  color: beige;
+}
+body {
+  background-color: black;
+}
